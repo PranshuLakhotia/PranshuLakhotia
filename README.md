@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PranshuLakhotia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<img src="https://streak-stats.demolab.com?user=ParagGhatage&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranshuLakhotia&radius=16&theme=redical&area=true&order=5&custom_title=My%20contributions&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+ 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
