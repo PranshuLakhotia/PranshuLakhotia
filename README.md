@@ -1,5 +1,9 @@
-## Hi there 👋
-I'm Pranshu Lakhotia, a full-stack developer, ML enthusiast, Competitive Programmer and open-source contributor passionate about AI, cybersecurity, and scalable web applications.
+<div align="center">
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif" alt="cover" />
+</div>
+
+## Hi there 👋 I'm Pranshu Lakhotia
+I am a full-stack developer, ML enthusiast, Competitive Programmer and open-source contributor passionate about AI, cybersecurity, and scalable web applications.
 
 - 💬 I’m looking to collaborate on open-source AI/ML projects, full-stack applications, and cybersecurity/CNN research.
 - 💬 Ask me about React, TypeScript, AI-powered applications, cloud deployment, and full-stack development.
